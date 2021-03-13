@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['popularmoviesRS.py', 'KNN_IBCF.py', 'IBCF_cos_sim.py', 'context_awareRS.py', 'CBmethod2.py', 'CBmethod1.py', 'KNN_UBCF.py', 'matrixFactorizationIBCF.py', 'matrixFactorizationUBCF.py', '..\\..\\..\\Documents\\카카오톡 받은 파일\\문장 생성\\1.csv', '..\\..\\..\\Documents\\카카오톡 받은 파일\\문장 생성\\activate.py', '..\\..\\..\\Documents\\카카오톡 받은 파일\\문장 생성\\keywords.py', '..\\..\\..\\Documents\\카카오톡 받은 파일\\문장 생성\\sentence_form.py', '..\\..\\..\\Documents\\카카오톡 받은 파일\\문장 생성\\text_preprocess.py']
+
